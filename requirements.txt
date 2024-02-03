@@ -6,3 +6,4 @@ ipykernel
 pyarrow
 statsmodels
 seaborn
+ahpy
