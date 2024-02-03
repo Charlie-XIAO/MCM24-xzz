@@ -16,7 +16,11 @@ See [`q1.ipynb`](./q1.ipynb).
 
 ### Statement
 
+A tennis coach is skeptical that "momentum" plays any role in the match. Instead, he postulates that swings in play and runs of success by one player are random. Use your model/metric to assess this claim.
+
 ### Solutions
+
+See [`q2.ipynb`](./q2.ipynb).
 
 ## Problem 3
 
