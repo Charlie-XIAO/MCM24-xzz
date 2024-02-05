@@ -26,4 +26,14 @@ See [`q2.ipynb`](./q2.ipynb).
 
 ### Statement
 
+Coaches would love to know if there are indicators that can help determine when the flow of play is about to change from favoring one player to the other.
+
+- Using the data provided for at least one match, develop a model that predicts 
+these swings in the match. What factors seem most related (if any)?
+
+- Given the differential in past match “momentum” swings how do you advise a 
+player going into a new match against a different player? 
+
 ### Solutions
+
+See [`q3-1.ipynb`](./q3-1.ipynb) mainly for definition of momentum and comparison plots. See [`q3-2.ipynb`](./q3-2.ipynb) for the prediction model on the whole dataset. See [`q3-3.ipynb`](./q3-3.ipynb) for the prediction model for a particular player.

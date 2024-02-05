@@ -4,6 +4,7 @@ scikit-learn
 imbalanced-learn
 matplotlib
 ipykernel
+ipywidgets
 pyarrow
 statsmodels
 seaborn
