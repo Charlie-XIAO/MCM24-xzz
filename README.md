@@ -37,3 +37,11 @@ player going into a new match against a different player?
 ### Solutions
 
 See [`q3-1.ipynb`](./q3-1.ipynb) mainly for definition of momentum and comparison plots. See [`q3-2.ipynb`](./q3-2.ipynb) for the prediction model on the whole dataset. See [`q3-3.ipynb`](./q3-3.ipynb) for the prediction model for a particular player.
+
+## Problem 4
+
+### Statement
+
+Test the model you developed on one or more of the other matches. How well do you predict the swings in the match? If the model performs poorly at times, can you identify any factors that might need to be included in future models? How generalizable is your model to other matches (such as Women’s matches), tournaments, court surfaces, and other sports such as table tennis.
+
+### Solutions
