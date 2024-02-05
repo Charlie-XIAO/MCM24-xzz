@@ -45,3 +45,5 @@ See [`q3-1.ipynb`](./q3-1.ipynb) mainly for definition of momentum and compariso
 Test the model you developed on one or more of the other matches. How well do you predict the swings in the match? If the model performs poorly at times, can you identify any factors that might need to be included in future models? How generalizable is your model to other matches (such as Women’s matches), tournaments, court surfaces, and other sports such as table tennis.
 
 ### Solutions
+
+See [`q4-1.ipynb`](./q4-1.ipynb) for predicting [`wimbledon_ladies.csv`](./wimbledon_ladies.csv). See [`q4-2.ipynb`](./q4-2.ipynb) for predicting [`hard_surface_court.csv`](./hard_surface_court.csv).
